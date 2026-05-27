@@ -1,6 +1,6 @@
-# seazone-challenge-data-coordenator
+# seazone-challenge-ai-builder-data
 
-Repositório base do desafio técnico para a vaga de **Coordenador de Dados — squad Data Edge** (Seazone).
+Repositório base do desafio técnico para a vaga de **Senior AI Builder — squad Data Edge** (Seazone).
 
 A descrição completa do desafio está no PDF enviado por e-mail. Este repositório serve como ponto de partida: contém o dataset que você vai usar nas Partes 1 e 2 e a branch com o PR sintético para a Parte 3.
 
