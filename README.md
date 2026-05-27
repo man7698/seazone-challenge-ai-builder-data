@@ -37,4 +37,7 @@ Para as Partes 1 e 2 você escolhe sua stack — não precisa seguir a do PR.
 
 ## Entrega
 
-Conforme o PDF: 1 repositório público no seu GitHub com a estrutura indicada e link enviado por e-mail respondendo à thread do processo.
+Conforme o PDF, envie por e-mail respondendo à thread do processo:
+
+1. **Link do repositório público** com a entrega completa (estrutura indicada no PDF).
+2. **Link do PR de revisão** (no seu fork deste repositório base) com os comentários inline da Parte 3.
