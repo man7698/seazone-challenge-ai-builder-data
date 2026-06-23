@@ -1,0 +1,48 @@
+{
+  "best_revenue_suburb": "meia praia",
+  "build_suburb": "centro",
+  "build_suburb_equals_best_revenue_suburb": false,
+  "base_occupancy_assumption": 0.55,
+  "bedroom_mix_scenarios_2027_roi_pct": {
+    "100pct_2q": 15.3,
+    "100pct_3q": 9.74,
+    "mix_50_50": 11.75
+  },
+  "chosen_mix": "100pct_2q",
+  "adr_by_bedrooms_brl": {
+    "2": 662.0,
+    "3": 737.0
+  },
+  "roi_projection": [
+    {
+      "year": 2025,
+      "revenue_brl": 3654654.0,
+      "opex_brl": 1366663.0,
+      "noi_brl": 2287990.0,
+      "investment_brl": 32860100.0,
+      "roi_pct": 6.96
+    },
+    {
+      "year": 2026,
+      "revenue_brl": 6279360.0,
+      "opex_brl": 2022840.0,
+      "noi_brl": 4256520.0,
+      "investment_brl": 32860100.0,
+      "roi_pct": 12.95
+    },
+    {
+      "year": 2027,
+      "revenue_brl": 7309308.0,
+      "opex_brl": 2280327.0,
+      "noi_brl": 5028981.0,
+      "investment_brl": 32860100.0,
+      "roi_pct": 15.3
+    }
+  ],
+  "roi_by_candidate_suburb_2027_pct": {
+    "meia praia": 6.05,
+    "tabuleiro dos oliveiras": 14.64,
+    "centro": 15.3,
+    "morretes": 4.43
+  }
+}
